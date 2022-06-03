@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0a398e6592f1e34b8bea57443f32799, type: 3}
+  m_Name: Cyndaquil
+  m_EditorClassIdentifier: 
+  name: Cyndaquil
+  ID: 157
+  description: "Cyndaquil se protege soltando llamas por el lomo. Cuando est\xE1
+    enfadado, las llamas son fieras, pero si est\xE1 cansado s\xF3lo consigue echar
+    algunas chispas que no llegan a cuajar en una completa combusti\xF3n."
+  frontSprite: {fileID: 21300000, guid: afbf153f0bcf232479abe1c9745dc912, type: 3}
+  backSprite: {fileID: 21300000, guid: a0d8f173ca1489b438beafc63e548604, type: 3}
+  type1: 0
+  type2: 0
+  maxHp: 78
+  attack: 84
+  defense: 78
+  spAttack: 0
+  spDefense: 85
+  speed: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0a398e6592f1e34b8bea57443f32799, type: 3}
+  m_Name: Doduo
+  m_EditorClassIdentifier: 
+  name: Doduo
+  ID: 84
+  description: "Las dos cabezas de Doduo duermen de forma independiente, siempre
+    por turnos. As\xED que mientras una duerme, la otra hace de centinela por si
+    aparecen enemigos."
+  frontSprite: {fileID: 21300000, guid: db6db8a6c9c944a4383d7e59d3e49628, type: 3}
+  backSprite: {fileID: 21300000, guid: b6c5bceb63b796349aa82fd4c3d3b34e, type: 3}
+  type1: 1
+  type2: 9
+  maxHp: 35
+  attack: 85
+  defense: 45
+  spAttack: 35
+  spDefense: 35
+  speed: 75
